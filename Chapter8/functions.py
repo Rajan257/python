@@ -13,4 +13,5 @@ def avg():
 avg()   #function call
 avg()
 avg()
+avg()
 
